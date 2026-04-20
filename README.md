@@ -1,8 +1,7 @@
 # 🌸 Hey, I'm Morgan!
 💻 I build things that live at the crossroads of technology and human experience.<br>With a background spanning hands-on IT support, VAR project management, and software<br>development, I bring both the technical depth and the people skills to see a project<br>through from idea to execution.<br><br>🌱 Always learning · always building · always asking "what if we made this better?"<br><br>✨ Current interests: human-computer interaction · full-stack development · creative tech
 
-
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moekoch/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moekoch@gmail.com) 
 
 # 💻 Tech Stack:
