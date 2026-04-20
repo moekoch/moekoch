@@ -69,7 +69,7 @@ From IT support and project management to full-stack development --
 
 <br>
 
-### ⟐ Systems & Experience ⟐
+### ⟐ Experience ⟐
 `Project Management` · `Full-stack development` · `Human-centered system design` · `Team-based execution` 
 
 <br>
