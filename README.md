@@ -2,7 +2,7 @@
 
 # < ✿ Hey, I'm Morgan! ✿ />
 
-`B.S. Computer Science · MIS Minor @ Penn State`
+`B.S. Computer Science + MIS Minor @ Penn State`
 
 <br>
 
