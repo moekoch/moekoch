@@ -1,6 +1,6 @@
 <div align="center">
 
-# < ✿ Hey, I'm Morgan! ✿ />
+# < Hey, I'm Morgan! />
 
 `B.S. Computer Science + MIS Minor @ Penn State`
 
