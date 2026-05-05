@@ -8,8 +8,8 @@
 
 *ad astra per aspera*
 
-From IT support and project management to full-stack development --  
-**I bridge technical depth with human-centered system thinking from idea to execution.**
+From project and product management to full-stack development --  
+**balancing technical detail with a practical, human perspective.**
 
 <br>
 
