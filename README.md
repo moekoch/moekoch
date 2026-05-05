@@ -70,7 +70,7 @@ From IT support and project management to full-stack development --
 <br>
 
 ### ⟐ Experience ⟐
-`Project Management` · `Full-stack development` · `Human-centered system design` · `Team-based execution` 
+`Project Management` · `Full-stack development` · `Human-centered system design` · `Team-based execution`
 
 <br>
 
@@ -83,10 +83,26 @@ From IT support and project management to full-stack development --
 <br>
 
 <div align="center">
-
 <img height="180em" src="https://streak-stats.demolab.com/?user=moekoch&theme=vue-dark&hide_border=true"/>
 &nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=moekoch&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320"/>
+</div>
+
+<br>
+
+---
+
+<div align="center"> ── ✿ &nbsp; From Space, With Love &nbsp; ✿ ── </div>
+
+<br>
+
+<div align="center">
+
+*seen from 438 miles up*
+
+[![NASA Landsat — MORGAN](assets/Morgan.png)](https://science.nasa.gov/mission/landsat/outreach/your-name-in-landsat/)
+
+<sub>each letter is a real landscape captured by NASA's Landsat satellite · <a href="https://science.nasa.gov/mission/landsat/outreach/your-name-in-landsat/">generate yours ↗</a></sub>
 
 </div>
 
