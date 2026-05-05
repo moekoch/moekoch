@@ -8,8 +8,8 @@
 
 *ad astra per aspera*
 
-From project and product management to full-stack development --  
-**balancing technical detail with a practical, human perspective.**
+From project and product management to full-stack development ~  
+**I’m interested in building thoughtful, usable projects that balance technical detail with real-world practicality.**
 
 <br>
 
