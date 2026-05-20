@@ -100,18 +100,6 @@ From project and product management to full-stack development ~
 
 ---
 
-<div align="center"> ── ✿ &nbsp; From Space, With Love &nbsp; ✿ ── </div>
-
-<br>
-
-<div align="center">
-
-*seen from 438 miles up*
-
-[![NASA Landsat — MORGAN](assets/Morgan.png)](https://science.nasa.gov/mission/landsat/outreach/your-name-in-landsat/)
-
-<sub>each letter is a real landscape captured by NASA's Landsat satellite · <a href="https://science.nasa.gov/mission/landsat/outreach/your-name-in-landsat/">generate yours ↗</a></sub>
-
 </div>
 
 <br>
