@@ -6,7 +6,7 @@
 
 <br>
 
-From project and product management to full-stack development ~  
+From full-stack development to project and product management ~  
 **I’m interested in building thoughtful, usable projects that balance technical detail with real-world practicality.**
 
 <br>
