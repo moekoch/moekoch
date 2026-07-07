@@ -12,7 +12,6 @@ From full-stack development to project and product management —
 <br>
 
 `learning systems` · `questioning the default`
-
 <br>
 
  ### ─── ┤ currently ├ ─── 
@@ -47,8 +46,6 @@ From full-stack development to project and product management —
 
 </div>
 
-
-<br>
 
 <div align="center">
 
