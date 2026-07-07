@@ -6,8 +6,8 @@
 
 <br>
 
-From full-stack development to project and product management ~  
-**I’m interested in building thoughtful, usable projects that balance technical detail with real-world practicality.**
+From full-stack development to project and product management —  
+**I'm interested in building thoughtful, usable projects that balance technical detail with real-world practicality.**
 
 <br>
 
@@ -15,7 +15,15 @@ From full-stack development to project and product management ~
 
 <br>
 
-─── ✿ ───
+ ### ─── ┤ currently ├ ─── 
+
+`building` → *Landing Place (Mental Health App @ PSU VAR Lab)*  
+`learning` → *LLM Self-Hosting & Orchestration Frameworks*  
+`exploring` → *Machine Learning & RAG Workflows*
+<br>
+<br>
+
+──────────  ✧  ──────────
 
 <br>
 
@@ -25,15 +33,26 @@ From full-stack development to project and product management ~
 
 </div>
 
----
+<div align="center">
 
-<div align="center"> ── ✿ &nbsp; Tech Stack &nbsp; ✿ ── </div>
+· · · ✦ · · ·
+
+<br>
+
+</div>
+
+<div align="center">
+
+### · ✦ · ─── Tech Stack ─── · ✦ ·
+
+</div>
+
 
 <br>
 
 <div align="center">
 
-### ⟐ Languages ⟐
+#### ┌─ languages ─┐
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -43,14 +62,14 @@ From full-stack development to project and product management ~
 
 <br>
 
-### ⟐ Interface & Frontend ⟐
+#### ┌─ interface & frontend ─┐
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <br>
 
-### ⟐ Backend & Systems ⟐
+#### ┌─ backend & systems ─┐
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -60,7 +79,7 @@ From full-stack development to project and product management ~
 
 <br>
 
-### ⟐ Tools & Infrastructure ⟐
+#### ┌─ tools & infrastructure ─┐
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -70,15 +89,15 @@ From full-stack development to project and product management ~
 
 <br>
 
-### ⟐ Design & Creative Tools ⟐
+#### ┌─ design & creative ─┐
 ![Adobe Creative Suite](https://img.shields.io/badge/adobe%20creative%20suite-%23FF0000.svg?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Meta Quest](https://img.shields.io/badge/meta%20quest-%23262626.svg?style=for-the-badge&logo=oculus&logoColor=white)
 
 <br>
 
-### ⟐ Experience ⟐
-`Project Management` · `Full-stack development` · `Human-centered system design` · `Team-based execution`
+#### ┌─ focus areas ─┐
+`Full-Stack Development` · `Project/Product Management` · `Human-Centered System Design` · `Team-Based Execution`
 
 <br>
 
@@ -86,7 +105,11 @@ From full-stack development to project and product management ~
 
 ---
 
-<div align="center"> ── ✿ &nbsp; GitHub Stats &nbsp; ✿ ── </div>
+<div align="center">
+
+### · ✦ · ─── GitHub Stats ─── · ✦ ·
+
+</div>
 
 <br>
 
@@ -94,14 +117,19 @@ From full-stack development to project and product management ~
 <img height="180em" src="https://streak-stats.demolab.com/?user=moekoch&theme=vue-dark&hide_border=true"/>
 &nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=moekoch&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320"/>
-</div>
-
-<br>
-
----
 
 </div>
 
-<br>
+</div>
+
+
+<div align="center">
+
+· · · ✦ · · ·
+
+*thanks for stopping by*
+
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
