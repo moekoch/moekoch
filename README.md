@@ -119,7 +119,7 @@ From full-stack development to project and product management —
 
 · · · ✦ · · ·
 
-*thanks for stopping by*
+*thanks for stopping by :)*
 
 </div>
 
