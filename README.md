@@ -11,9 +11,6 @@ From full-stack development to project and product management —
 
 <br>
 
-`learning systems` · `questioning the default`
-<br>
-
  ### ─── ┤ currently ├ ─── 
 
 `building` → *Landing Place (Mental Health App @ PSU VAR Lab)*  
