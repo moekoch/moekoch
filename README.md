@@ -6,7 +6,6 @@
 
 <br>
 
-From full-stack development to project and product management —  
 **I'm interested in building thoughtful, usable projects that balance technical detail with real-world practicality.**
 
 <br>
@@ -14,8 +13,8 @@ From full-stack development to project and product management —
  ### ─── ┤ currently ├ ─── 
 
 `building` → *Landing Place (Mental Health App @ PSU VAR Lab)*  
-`learning` → *LLM Self-Hosting & Orchestration Frameworks*  
-`exploring` → *Machine Learning & RAG Workflows*
+`learning` → *LLM Self-Hosting & Machine Learning*  
+`exploring` → *Touchdesigner Graphics & Orchestration Frameworks*
 <br>
 <br>
 
@@ -89,7 +88,7 @@ From full-stack development to project and product management —
 <br>
 
 #### ┌─ focus areas ─┐
-`Full-Stack Development` · `Project/Product Management` · `Human-Centered System Design` · `Team-Based Execution`
+`Full-Stack Development` · `Project/Product Management` · `Creative Technology`
 
 <br>
 
@@ -106,7 +105,6 @@ From full-stack development to project and product management —
 <br>
 
 <div align="center">
-<img height="180em" src="https://streak-stats.demolab.com/?user=moekoch&theme=vue-dark&hide_border=true"/>
 &nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=moekoch&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320"/>
 
