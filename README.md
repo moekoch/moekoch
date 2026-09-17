@@ -6,10 +6,6 @@
 
 <br>
 
-**I'm interested in building thoughtful, usable projects that balance technical detail with real-world practicality.**
-
-<br>
-
  ### ─── ┤ currently ├ ─── 
 
 `building` → *Landing Place (Mental Health App @ PSU VAR Lab)*  
