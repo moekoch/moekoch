@@ -2,13 +2,12 @@
 
 # < Hey, I'm Morgan! />
 
-`B.S. Computer Science + MIS Minor @ Penn State`
+`B.S. Computer Science + Minors in MIS & Biology @ Penn State`
 
 <br>
 
  ### ─── ┤ currently ├ ─── 
 
-`building` → *Landing Place (Mental Health App @ PSU VAR Lab)*  
 `learning` → *LLM Self-Hosting & Machine Learning*  
 `exploring` → *Touchdesigner Graphics & Orchestration Frameworks*
 <br>
@@ -84,7 +83,7 @@
 <br>
 
 #### ┌─ focus areas ─┐
-`Full-Stack Development` · `Project/Product Management` · `Creative Technology`
+`Full-Stack Development` · `Project/Product Management` · `Computational Biology` · `Creative Technology`
 
 <br>
 
